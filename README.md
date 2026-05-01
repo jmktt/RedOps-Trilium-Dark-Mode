@@ -2,14 +2,16 @@
 
 A true dark mode theme for Trilium Notes, created for people who really like DarkMode.
 
-![Trilium Version](https://img.shields.io/badge/Trilium-v0.102.2-red)
-![Open Issues](https://img.shields.io/github/issues/jmktt/RedOps-Trilium-Dark-Mode)
-![Open PRs](https://img.shields.io/github/issues-pr/jmktt/RedOps-Trilium-Dark-Mode)
 
 
 RedOps focuses on a real dark mode experience: deep black backgrounds, subtle red highlights, readable text, consistent hover states, dark dialogs, dark menus, and fewer bright UI elements interrupting the interface.
 
 ![RedOps Preview](img/RedOps1.png)
+
+
+[![Trilium Version](https://img.shields.io/badge/Trilium-v0.102.2-red "Trilium Version")](https://github.com/TriliumNext/Trilium)
+[![Open Issues](https://img.shields.io/github/issues/jmktt/RedOps-Trilium-Dark-Mode "Open Issues")](https://github.com/jmktt/RedOps-Trilium-Dark-Mode/issues)
+[![Open PRs](https://img.shields.io/github/issues-pr/jmktt/RedOps-Trilium-Dark-Mode "Open PRs")](https://github.com/jmktt/RedOps-Trilium-Dark-Mode/pulls)
 
 ## Features
 
